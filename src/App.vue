@@ -1,7 +1,7 @@
 <template>
   <div>
     <img alt="Vue logo" src="./assets/logo.png" />
-    <HelloWorld msg="젠킨스님 성공좀 해주세요21 답답,,," />
+    <HelloWorld msg="젠킨스님 성공좀 해주세요22 답답,,," />
   </div>
 </template>
 
